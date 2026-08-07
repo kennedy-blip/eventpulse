@@ -7,4 +7,4 @@ git ...
 fixx ...-m
 errors
 git
-cl
+cle
