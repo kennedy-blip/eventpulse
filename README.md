@@ -6,4 +6,4 @@ install
 git ...
 fixx ...-m
 errors
-g
+gi
