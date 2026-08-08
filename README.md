@@ -8,3 +8,4 @@ fixx ...-m
 errors
 git
 clear ...
+c
